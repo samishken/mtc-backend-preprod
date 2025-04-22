@@ -1,2 +1,2 @@
-# mtc-backend-preprod
-python Code for MTC-test
+# This preprod python repository for  developers. 
+The infra was last modified by: Samuel "Sam" Haile
